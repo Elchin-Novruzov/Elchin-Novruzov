@@ -32,6 +32,6 @@ I am Elchin Novruzov, a frontend developer with about two years of experience. I
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem; text-decoration: none;"><a href="https://www.buymeacoffee.com/elchin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem; text-decoration: none; list-style-type: none;"><a href="https://www.buymeacoffee.com/elchin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
