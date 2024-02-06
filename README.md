@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elchin Novruzov
 =======================================================================================================================================
 
-Web Developer
--------------
+Web Developer 
+------------- 
 
 I am Elchin Novruzov, a frontend developer with about two years of experience. I am skilled in AngularJs, React, and TypeScript, also I’m learning Vue.js with big willing. I have in depth knowledge of HTML, CSS, and JavaScript. I am also familiar with jQuery, Firebase, Bootstrap, NPM, Yarn, SCSS, SAAS, LESS, Git and GitHub. I am a quick learner and I am always eager to learn new things. I am a team player and I am always willing to help others. I am passionate about software development and I am always looking for new challenges and opportunity of develop myself. I am originally from Azerbaijan, but I currently live in Prague for study. I am native in Azerbaijani and Turkish, I know intermediate level of English, pre-intermediate Russian and basic level Czech.
 
