@@ -8,9 +8,9 @@ I am Elchin Novruzov, a front-end developer with about two years of experience. 
 
 * 🌍  I'm based in Czechia
 * ✉️  You can contact me at [elchinnovruzovv@gmail.com](mailto:elchinnovruzovv@gmail.com)
-* 🐱‍👓  I'm learning Nuxt.Js and Node.Js
+* 🐱‍💻  I'm learning Nuxt.Js and Node.Js
 * 🐱‍🏍  I'm open to collaborating on AI-based Web Projects
-* 🐱‍💻  Press F13 if you'd like to discover more about me 
+* 🐱‍🐉  Press F13 if you'd like to discover more about me 
 
 ### Skills
 
