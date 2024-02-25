@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 Web Developer
--------------
+------------- 
 
 I am Elchin Novruzov, a Web Developer with about two years of work experience. I am skilled in AngularJs, Vue.Js, and TypeScript, also I’m learning Node.js and Nuxt.js with great willingness. I have in-depth knowledge of HTML, CSS, and JavaScript. I am also familiar with Python, R, jQuery, Firebase, Bootstrap, NPM, Yarn, Docker, SCSS, SAAS, LESS, Selenium, Jira, Git, and GitHub. I am a quick learner and always eager to learn new things. I am a team player and I am always willing to help others. I am passionate about software development and I am always looking for new challenges and opportunities to develop myself. I am originally from Azerbaijan but currently live in Prague, Czechia for study. I am a native of Azerbaijani and Turkish, I know Upper-intermediate level English, pre-intermediate Russian, and basic level Czech.
 
