@@ -1,10 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elchin Novruzov
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Elchin Novruzov
 =======================================================================================================================================
 
 Web Developer
 ------------- 
 
-I am Elchin Novruzov, a Web Developer with about two years of work experience. I am skilled in AngularJs, Vue.Js, and TypeScript, also I’m learning Node.js and Nuxt.js with great willingness. I have in-depth knowledge of HTML, CSS, and JavaScript. I am also familiar with Python, R, jQuery, Firebase, Bootstrap, NPM, Yarn, Docker, SCSS, SAAS, LESS, Selenium, Jira, Git, and GitHub. I am a quick learner and always eager to learn new things. I am a team player and I am always willing to help others. I am passionate about software development and I am always looking for new challenges and opportunities to develop myself. I am originally from Azerbaijan but currently live in Prague, Czechia for study. I am a native of Azerbaijani and Turkish, I know Upper-intermediate level English, pre-intermediate Russian, and basic level Czech.
+I'm a dedicated Web Developer  with around two years of hands-on experience. My expertise spans AngularJs, Vue.Js, and TypeScript. With ongoing exploration into Node.js and Nuxt.js. Proficient in HTML, CSS, and JavaScript, I also dabble in Python, R, jQuery, Firebase, Bootstrap, and more. My toolkit includes NPM, Yarn, Docker, SCSS, SAAS, LESS, Selenium, Jira, Git, GitHub, and beyond.
+
+I thrive on challenges and am fueled by a passion for software development. As a proactive team player, I'm always ready to lend a hand and collaborate effectively. Originally from Azerbaijan, I currently reside in Prague, Czechia, pursuing my studies. Fluent in Azerbaijani and Turkish, I'm proficient in English, with basic proficiency in Russian and Czech.
+
+I'm constantly expanding my skill set, embracing new growth opportunities, and excited about the journey ahead in the ever-evolving tech landscape. Let's connect and create something amazing together! 🚀
 
 * 🌍  I'm based in Czechia
 * ✉️  You can contact me at [elchinnovruzovv@gmail.com](mailto:elchinnovruzovv@gmail.com)
