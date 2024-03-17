@@ -11,10 +11,10 @@ I thrive on challenges and am fueled by a passion for software development. As a
 I'm constantly expanding my skill set, embracing new growth opportunities, and excited about the journey ahead in the ever-evolving tech landscape. Let's connect and create something amazing together! 🚀
 
 * 🌍  I'm based in Czechia
-* ✉️  You can contact me at [elchinnovruzovv@gmail.com](mailto:elchinnovruzovv@gmail.com)
-* 🐱‍💻  I'm learning Nuxt.Js and Node.Js
-* 🐱‍🏍  I'm open to collaborating on AI-based Web Projects
-* 🐱‍🐉  Press F13 if you'd like to discover more about me 
+* 📧  You can contact me at [elchinnovruzovv@gmail.com](mailto:elchinnovruzovv@gmail.com)
+* 📖  I'm learning Nuxt.Js and Node.Js
+* 📂  I'm open to collaborating on AI-based Web Projects
+* 🧠  Press F13 if you'd like to discover more about me 
 
 ### Skills
 
