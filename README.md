@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer        
 -------------                  
 
-Hey! As you can see my name is Elchin, I'm a dedicated Web Developer  with around two years of hands-on experience. My expertise spans AngularJs, Vue.Js, and TypeScript. With ongoing exploration into Node.js and Nuxt.js. Proficient in HTML, CSS, and JavaScript, I also dabble in Python, R, jQuery, Firebase, Bootstrap, and more. My toolkit includes NPM, Yarn, Docker, SCSS, SAAS, LESS, Selenium, Jira, Git, GitHub, and beyond.
+Hey! As you can see my name is Elchin, I'm a dedicated Web Developer  with around two years of hands-on experience. My expertise spans AngularJs, Vue.Js, and TypeScript. With ongoing exploration into Node.js and Express.js. Proficient in HTML, CSS, and JavaScript, I also dabble in Python, R, jQuery, Firebase, Bootstrap, and more. My toolkit includes NPM, Yarn, Docker, SCSS, SAAS, LESS, Selenium, Jira, Git, GitHub, and beyond.
 
 I thrive on challenges and am fueled by a passion for software development. As a proactive team player, I'm always ready to lend a hand and collaborate effectively. Originally from Azerbaijan, currently I study Data Science at [CZU](https://www.czu.cz/en) and reside in Prague, Czechia, pursuing my studies. Fluent in Azerbaijani and Turkish, I'm proficient in English, with basic proficiency in Russian and Czech.
 
