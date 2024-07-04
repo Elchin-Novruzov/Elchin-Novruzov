@@ -6,7 +6,7 @@ Web Developer
 
 Hey! My name is Elchin, I'm a dedicated Web Developer  with more than two years of hands-on experience. My expertise spans React, Vue.Js, and TypeScript. With ongoing exploration into Node.js and Express.js. Proficient in HTML, CSS, and JavaScript, I also dabble in Python, R, jQuery, Firebase, Bootstrap, and more. My toolkit includes NPM, Yarn, Docker, SCSS, SAAS, LESS, Selenium, Jira, Git, GitHub, and beyond.
 
-I thrive on challenges and am fueled by a passion for software development. As a proactive team player, I'm always ready to lend a hand and collaborate effectively. Originally from Azerbaijan, currently I study Data Science at [CZU](https://www.czu.cz/en) and reside in Prague, Czechia, pursuing my studies. Fluent in Azerbaijani and Turkish, I'm proficient in English, with basic proficiency in Russian and Czech.
+I thrive on challenges and am fueled by a passion for software development. As a proactive team player, I'm always ready to lend a hand and collaborate effectively. Originally from Azerbaijan, currently I study Data Science at [CZU](https://www.czu.cz/en) and reside in Prague, Czechia, pursuing my studies. I am also holding a bachelor in computer engineering and a vocational degree in software engineering. I am Fluent in Azerbaijani and Turkish, proficient in English, with basic proficiency in Russian and Czech.
 
 I'm constantly expanding my skill set, embracing new growth opportunities, and excited about the journey ahead in the ever-evolving tech landscape. Let's connect and create something amazing together! 🚀
 
