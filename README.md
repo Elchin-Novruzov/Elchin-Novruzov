@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Elchin Novruzov
 ======================================================================================================================================= 
   
-Web Developer                               
+Web Developer                                
 -------------                                    
  
 Hey! I'm a dedicated Web Developer  with more than two years of hands-on experience. My expertise spans React, Vue.Js, and TypeScript with ongoing exploration into Node.js and Express.js. Proficient in HTML, CSS, and JavaScript, I also dabble in Python, R, jQuery, Firebase, Bootstrap, and more. My toolkit includes NPM, Yarn, Docker, SCSS, SAAS, LESS, Selenium, Jira, Git, GitHub, and beyond.
