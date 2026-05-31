@@ -10,10 +10,18 @@ I thrive on challenges and am fueled by a passion for software development. As a
 
 I'm constantly expanding my skill set, embracing new growth opportunities, and excited about the journey ahead in the ever-evolving tech landscape. Let's connect and create something amazing together! 🚀
 
-* 🌍  I'm based in Czechia
-* 📧  You can contact me at [elchinnovruzovv@gmail.com](mailto:elchinnovruzovv@gmail.com)
-* 📖  I'm learning Express.Js and Node.Js
-* 🏢  I'm open to Job offers
+* 🌍  I'm based in Czechia
+* 📧  You can contact me at [elchinnovruzovv@gmail.com](mailto:elchinnovruzovv@gmail.com)
+* 📖  I'm learning Express.Js and Node.Js
+* 🏢  I'm open to Job offers
+
+### Badges
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elchin-novruzov&" alt="elchin-novruzov" /></p>
+
+## 📊 Contribution Graph
+
+![Isometric Commit Calendar](./metrics.plugin.isocalendar.svg)
 
 ### Skills
 
@@ -30,25 +38,6 @@ I'm constantly expanding my skill set, embracing new growth opportunities, and e
 
 <p align="left"> <a href="https://www.codepen.io/Elcin-Novruzov-the-flexboxer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Elchin-Novruzov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/elchin-novruzov/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
 
-### Badges
-
-<!--<b>My GitHub Stats</b>-->
-
-<!--<a href="http://www.github.com/Elchin-Novruzov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Elchin-Novruzov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>-->
-
-<!--
-<a href="https://github.com/Elchin-Novruzov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elchin-Novruzov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elchin-novruzov&" alt="elchin-novruzov" /></p>
-
-
 ### Support Me
 
-
-
 <a href="https://www.buymeacoffee.com/elchin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-
-## 📊 Contribution Graph
-
-![Isometric Commit Calendar](./metrics.plugin.isocalendar.svg)
