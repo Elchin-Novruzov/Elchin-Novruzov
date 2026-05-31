@@ -49,3 +49,6 @@ I'm constantly expanding my skill set, embracing new growth opportunities, and e
 
 <a href="https://www.buymeacoffee.com/elchin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
+## 📊 Contribution Graph
+
+![Isometric Commit Calendar](./metrics.plugin.isocalendar.svg)
