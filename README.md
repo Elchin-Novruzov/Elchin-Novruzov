@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer                                        
 -------------                                                   
    
-Hey! I'm a dedicated Web Developer  with more than 3 years of hands-on experience. My expertise spans React, Vue.Js, and TypeScript with ongoing exploration into Node.js and Express.js. Proficient in Typescript, Python, and JavaScript, I also dabble in Python, R, jQuery, Firebase, Bootstrap, and more.
+Hey! I'm a dedicated Web Developer  with more than 5 years of hands-on experience. My expertise spans React, Vue.Js, and TypeScript with ongoing exploration into Node.js and Express.js. Proficient in Typescript, Python, and JavaScript, I also dabble in Python, R, jQuery, Firebase, Bootstrap, and more.
 
 I thrive on challenges and am fueled by a passion for software development. As a proactive team player, I'm always ready to lend a hand and collaborate effectively. Originally from Azerbaijan, I currently study Data Science at [CZU](https://www.czu.cz/en) and reside in Prague, Czechia, pursuing my studies. I am also holding a bachelor's in computer engineering and a vocational degree in software engineering. I am fluent in Azerbaijani and Turkish, proficient in English, and have basic proficiency in Russian and Czech.
 
