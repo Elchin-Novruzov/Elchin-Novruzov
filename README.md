@@ -12,7 +12,6 @@ I'm constantly expanding my skill set, embracing new growth opportunities, and e
 
 * 🌍  I'm based in Czechia
 * 📧  You can contact me at [elchinnovruzovv@gmail.com](mailto:elchinnovruzovv@gmail.com)
-* 📖  I'm learning Express.Js and Node.Js
 * 🏢  I'm open to Job offers
 
 ### Badges
